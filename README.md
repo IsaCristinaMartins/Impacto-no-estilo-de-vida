@@ -20,3 +20,8 @@ controlada e você não tem dados faltosos na sua base. Chegou o momento de voc�
 8. Quem tem maior pressão sanguínea média, homens ou mulheres? (Considere a média)
 9. É predominante entre os participantes dormir 8 horas por dia (considere usar Moda como medida)?
 10. Pessoas com frequências cardíacas acima de 70 dão mais passos que pessoas com frequência cardíaca menor ou igual a 70? (Use a média)
+
+# Sugestões:
+  - Abra o arquivo .ipynb com google colab (isso evitará alguma necessidade de instalação de programas adicionais)
+  - Anexe o arquivo dos dados junto ao arquivo .ipynb para só depois iniciar a leitura dos códigos. 
+  - Rode as células nas sequências aos quais elas foram escritas. 
